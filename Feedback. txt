@@ -1,0 +1,4 @@
+Question 1: Gridsearch applied only to the transformer, not to the full pipeline with the RandomForest inside.-3
+Question 2: Should state explicitly which model performs better overall -2
+Question 3: No numeric scaling, which is required for KNN , Interpretation missing for several required metrics -7
+Total:  88/ 100
